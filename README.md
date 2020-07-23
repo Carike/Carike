@@ -1,6 +1,12 @@
-### Hi there 👋
+## How awesome is this ```README``` funtionality from GitHub :octocat:!
+
+I'm testing it out currently, but :eyes: this space for future developments. 
+
+In the meantime find me on <a href="https://dev.to/carike"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Carike Blignaut-Staden's DEV Profile" height="30" width="30"></a>
 
 <!--
+### Hi there 👋  
+
 **Carike/Carike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
